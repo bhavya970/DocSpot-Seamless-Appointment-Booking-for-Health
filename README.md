@@ -9,7 +9,14 @@ DocSpot is a full-stack web application that streamlines the process of booking 
 [![View Demo](https://img.shields.io/badge/View-Working%20Demo-blue)](https://drive.google.com/file/d/1hJ_RWCAUrMTY5TtirfdNKaJDenSw4uiG/view?usp=sharing)
 
 ---
+---
+## 📄 Project Documentation
 
+You can view the complete project documentation by clicking the link below:
+
+[📘 View Documentation (Google Drive)](https://drive.google.com/file/d/1hJ_RWCAUrMTY5TtirfdNKaJDenSw4uiG/view?usp=sharing)
+
+---
 ## 👨‍💻 Team Details
 
 - **Team ID:** LTVIP2025TMID59315  
