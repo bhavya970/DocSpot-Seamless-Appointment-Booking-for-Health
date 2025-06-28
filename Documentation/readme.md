@@ -1,6 +1,7 @@
-# 📄 Project Documentation
+## 📁 Project Documentation
 
-This folder contains external documentation related to **DocSpot – Seamless Appointment Booking for Health**.
+You can access the complete project documentation folder using the link below:
 
-👉 [Click here to view the Google Drive documentation](https://drive.google.com/file/d/1hJ_RWCAUrMTY5TtirfdNKaJDenSw4uiG/view?usp=sharing)
+[📘 View Documentation Folder on Google Drive](https://drive.google.com/drive/folders/1ySC9_Z63KtGKJkLxf9RRHpaLnA8_mkW0?usp=sharing)
+
 
