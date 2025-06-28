@@ -10,11 +10,11 @@ DocSpot is a full-stack web application that streamlines the process of booking 
 
 ---
 ---
-## 📄 Project Documentation
+# 📁 External Documentation
 
-You can view the complete project documentation by clicking the link below:
+The full project documentation is stored in Google Drive.
 
-[📘 View Documentation (Google Drive)](https://drive.google.com/file/d/1hJ_RWCAUrMTY5TtirfdNKaJDenSw4uiG/view?usp=sharing)
+👉 [Access Documentation Folder](https://drive.google.com/drive/folders/1ySC9_Z63KtGKJkLxf9RRHpaLnA8_mkW0?usp=sharing)
 
 ---
 ## 👨‍💻 Team Details
