@@ -53,3 +53,15 @@ _(Replace with your real video link)_
 ```bash
 git clone https://github.com/bhavya970/DocSpot-Seamless-Appointment-Booking-for-Health.git
 cd DocSpot-Seamless-Appointment-Booking-for-Health
+
+2. Setup Backend (server)
+cd ../../client-*/client
+npm install
+npm start
+
+3. Setup Frontend (client)
+cd ../../client-*/client
+npm install
+npm start
+
+App will run on http://localhost:3000
