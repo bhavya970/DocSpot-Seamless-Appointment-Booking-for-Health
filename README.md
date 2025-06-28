@@ -3,7 +3,22 @@
 DocSpot is a full-stack web application that streamlines the process of booking appointments with doctors. Designed with both patients and healthcare providers in mind, it offers a smooth, user-friendly interface to manage, schedule, and track appointments online.
 
 ---
+---
 
+## 👨‍💻 Team Details
+
+- **Team ID:** LTVIP2025TMID59315  
+- **Team Size:** 4
+
+###  Team Leader:
+- **Gurram Bhavya Sree**
+
+###  Team Members:
+- Gaddam Sravani Thriveditha  
+- Dumpa Durga Sai Saranya  
+- Ganjarapalli Susmitha
+
+---
 ## 🚀 Features
 
 - 🏥 Search and book appointments with verified doctors
