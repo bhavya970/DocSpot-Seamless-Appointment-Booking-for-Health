@@ -46,8 +46,7 @@ _(Replace with your real video link)_
 
 
 ---
-
-###⚙️ Setup Instructions
+## ⚙️ Setup Instructions
 
  1. Clone the repo:
 ```bash
