@@ -1,0 +1,8 @@
+node_modules/
+*.pack
+*.map
+.vscode/
+.env
+dist/
+build/
+*.log
