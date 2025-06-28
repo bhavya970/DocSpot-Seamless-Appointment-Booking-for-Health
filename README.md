@@ -47,9 +47,9 @@ _(Replace with your real video link)_
 
 ---
 
-⚙️ Setup Instructions
+###⚙️ Setup Instructions
 
-### 1. Clone the repo:
+ 1. Clone the repo:
 ```bash
 git clone https://github.com/bhavya970/DocSpot-Seamless-Appointment-Booking-for-Health.git
 cd DocSpot-Seamless-Appointment-Booking-for-Health
