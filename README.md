@@ -43,14 +43,6 @@ DocSpot is a full-stack web application that streamlines the process of booking 
 
 ---
 
-## 🖼️ Demo Video
-
-📹 **Watch the project demo:**  
-[👉 Click Here to Watch](https://drive.google.com/your-demo-link)  
-_(Replace with your real video link)_
-
----
-
 ## 📁 Folder Structure
 
 ├── client-/client # React frontend
