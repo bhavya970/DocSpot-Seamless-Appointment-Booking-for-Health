@@ -41,7 +41,9 @@ The full project documentation is stored in Google Drive.
 - 🌐 Responsive and user-friendly UI
 
 ---
-
+## Screen Shorts:
+<img width="1915" height="911" alt="Screenshot 2025-11-11 110156" src="https://github.com/user-attachments/assets/5773d516-d9ce-45e1-b30d-c25890480de9" />
+---
 ## 🛠️ Tech Stack
 
 | Layer        | Technology                      |
@@ -53,7 +55,6 @@ The full project documentation is stored in Google Drive.
 | **Other**    | Axios, REST API, EJS (if used)   |
 
 ---
-
 ## 📁 Folder Structure
 
 ├── client-/client # React frontend
