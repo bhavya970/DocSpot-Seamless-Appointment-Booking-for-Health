@@ -43,6 +43,19 @@ The full project documentation is stored in Google Drive.
 ---
 ## Screen Shorts:
 <img width="1915" height="911" alt="Screenshot 2025-11-11 110156" src="https://github.com/user-attachments/assets/5773d516-d9ce-45e1-b30d-c25890480de9" />
+
+<img width="1918" height="908" alt="Screenshot 2025-11-11 110219" src="https://github.com/user-attachments/assets/5686dc7d-e96d-4c76-9698-9cb03c5f40e2" />
+
+<img width="1917" height="915" alt="Screenshot 2025-11-11 110341" src="https://github.com/user-attachments/assets/36a3e87c-97c4-4163-ba62-3fc64e1b6895" />
+
+<img width="1919" height="914" alt="Screenshot 2025-11-11 110712" src="https://github.com/user-attachments/assets/de74433a-3a16-4d4a-abab-b3f0119014b6" />
+
+<img width="1919" height="908" alt="Screenshot 2025-11-11 110751" src="https://github.com/user-attachments/assets/b9c80d1a-52ac-4540-8c82-1c1326a73ba2" />
+
+<img width="1919" height="912" alt="Screenshot 2025-11-11 111638" src="https://github.com/user-attachments/assets/5592ec9e-6261-4f7e-bab6-d9b66f8f8532" />
+
+<img width="1918" height="909" alt="Screenshot 2025-11-11 112255" src="https://github.com/user-attachments/assets/68b5d986-5fbb-4f23-8745-0df8c4084f93" />
+
 ---
 ## 🛠️ Tech Stack
 
